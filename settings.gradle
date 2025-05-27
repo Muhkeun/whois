@@ -1,0 +1,3 @@
+rootProject.name = 'whois'
+
+include 'gateway', 'auth', 'chatbot', 'admin', 'greeting', 'llm', 'profile', 'career', 'notify', 'commons', 'clients', 'infra'

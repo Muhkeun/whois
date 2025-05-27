@@ -1,0 +1,27 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.iml
+*.log
+*.tmp
+*.swp
+*.lock
+
+### Gradle ###
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.ipr
+
+### OS ###
+.DS_Store
+
+### Logs ###
+logs/
+*.lck
